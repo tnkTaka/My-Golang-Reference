@@ -126,5 +126,5 @@ func VariableStoredPointerType()  {
 func main() {
 	// PointerTypeAndPointerTypeVariable()
 	// DeReference()
-	VariableStoredPointerType()
+	// VariableStoredPointerType()
 }
